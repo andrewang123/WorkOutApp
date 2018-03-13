@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">WorkOutApp</string>
+    <string name="view_weekly_plan_btn">View Weekly Plan</string>
+    <string name="inspriational_quote_btn">Inspirational Quote</string>
+    <string name="muscle_group_btn">Muscle Group Info</string>
+
+    <string name="generate_btn">Generate</string>
+
+    <string name="type_lifts_label">Type of Lifts</string>
+    <string name="description_label">Description</string>
+    <string name="muscle_title">Select Muscle Group</string>
+    <string name="img_description">Image of muscle on diagram</string>
+
+    <string name="back_to_home_btn">Back to Home</string>
+    <string name="back_to_weekly_planner_btn">Back to Weekly Plan</string>
+
+    <string-array name="muscle_groups">
+        <item>Legs</item>
+        <item>Abdominal</item>
+        <item>Chest</item>
+        <item>Triceps</item>
+        <item>Biceps</item>
+        <item>Shoulders</item>
+        <item>Back</item>
+    </string-array>
+
+
+    <string name="duration_label">Duration</string>
+    <string name="save_info">Save</string>
+    <string name= "leg_exercises">"Types of Exercises: \n" +
+                        "Front Squat | Bulgarian Split Squat \n" +
+                        "Romanian Deadlift | Dumbbell Stepup \n" +
+                        "Swiss Ball Leg Cur | Leg Press \n" +
+                        "Calf Raise | Walking Lunge \n" +
+                        "Barbell Hip Thrust | Glute Bridge Walkout \n"</string>
+    <string name= "ab_exercises">"Types of Exercises: \n" +
+                           "Abdominal Hold | The Side Crunch \n" +
+                           "Opposite Arm and Leg Raise | The Prone Plank \n" +
+                           "Squat Thrust with Twist | Ballet Twist \n" +
+                           "Ab Roller | Armband Ab Squeeze \n"</string>
+    <string name= "chest_exercises">"Types of Exercises: \n" +
+                           "Barbell Bench | Flat Bench Dumbbell \n" +
+                           "Incline Barbell Bench | Machine Decline Press \n" +
+                           "Machine Press | Incline Dumbbell \n" +
+                           "Dips For Chest | Incline Bench Cable \n" +
+                           "Incline Pull-Over | Pec-Deck Machine \n"</string>
+    <string name= "tri_exercises">"Types of Exercises: \n" +
+                           "Dip Machine | EZ-Bar Skullcrusher \n" +
+                           "Barbell Bench Press | Triceps Pushdown \n" +
+                           "Triceps Overhead Extension | V-Bar Pulldown \n" +
+                           "Seated Dumbbell Press | Overhead Dumbell Raise \n"</string>
+    <string name= "bi_exercises">"Types of Exercises: \n" +
+                           "Barbell Curl | Incline Dumbbel Curl \n" +
+                           "Reverse-Grip Bent Row | Incline Hammer Curl \n" +
+                           "Standing Bicep Curl | Wide-Grip Curl \n"</string>
+    <string name= "shoulder_exercises">"Types of Exercises: \n" +
+                           "Upright Cable Rows | Front Barbell Raise \n" +
+                           "Cable Front Raise | Machine Press \n" +
+                           "Dumbbell Lat Raise | Cable Delt Fly \n" +
+                           "Arnold Dumbbell Press | Smith Machine Upright Row \n" +
+                           "Face Pull | Military Press \n"</string>
+    <string name= "back_exercises">"Types of Exercises: \n" +
+                           "Barbell Deadlift | Bent-Over Deadlift \n" +
+                           "Wide-Grip Pull Down | Standing T-Bar Row \n" +
+                           "Wide-Grip Seated Cable Row | Dumbbell Row \n" +
+                           "Decline Bench Pull Over | Close-Grip Pull-Down \n"</string>
+
+</resources>
