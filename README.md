@@ -1,5 +1,5 @@
-# WorkOutApp
-============
+WorkOutApp
+==========
 An application created in Android Studio that allows users to:
 1. Track their gym workout routines.
 	* Be able to see a weekly overview
